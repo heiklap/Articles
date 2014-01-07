@@ -1,0 +1,76 @@
+How to avoid certain mistakes and pitfalls when starting to learn dart programming.. 
+
+My Quick-note in Google Keep...Work in progress..
+
+For basic: you must know: 
+- ALL Wikipedia stuff about web, server, programming aso.
+- Know Internet Slang
+- Abreviations
+- Basic idea and control flow of programming.
+
+At the beginning of 2014 DartLang is still a work in progress. It do not yet have all the goodies that older lanquages have, but it is gonna go far. Dart may not be the best-laquage-for-web-now, BUT it is best, that can survive now, and to get great bunch of developers behind it. 
+
+Writing this in Nexus... numbering... must fix it in laptop.
+This is for you, to avoid certain mistakes, pitfalls, to boost your learning
+
+1.  Put jre in jre folder in your dart-program folder, if you don't use path variable.
+ if problems, read: Dartlang; troubleleshooting Editor. 
+Read ALL here: dartlang.org  AND read it again. 
+Consider keeping notes in Evernote, Google Keep, Springpad, GTask or...
+
+2. Choose short names for your main data folders, you use them  daily, you learn them. EXAMPLE here. (coming.. in dawo / github)
+
+2. Trust editor tools;  ctrl-space for advices on subject. You do not have to memorize all stuff. 
+
+3. Trust Google search. try: dart foreach print ...xx
+   There is also Dart-search Chrome app.
+
+4. DartEditor keyboard shortcuts: choose, wich ones you need from HERE (Coming)
+     Play with Darteditors windows, until you got Happy state / feeling with them
+My windows arrangement:.
+LEFT: Files, under: Object inspector. Middle: edit,  Under: Problems, output, progress, breakpoints aso...  Right: Debugger, Outline
+
+
+5.  Use Google spreadsheets to scetch, analyze and plan your programs and their classes, functions and variables, and their naming conventions.
+
+6. Take time and plan NAMES for you variables and classes:  MEANING.  
+
+7. Love your lanquage.  Don't be angry to other languages.
+    Trust it. Trust the community. It will develope; every week something new.        
+
+8. Make a cheatSheet for usual stuff.  HERE (coming) sample. Until Darteditor gets templates.
+
+9.  Dont start to build a bridge until you see, where is other end. Build first a small bridge. 
+
+10. Give Dart editor time to analyze sometimes.  Prevent analyzing in other folders, when you want to work.
+
+
+11.  Start writing, when you have clear picture in your mind about the reality (or tale) which you want to program, 
+  
+12. Plan variables, which you need when you BUILD and plan your prog.  
+
+13. Make BASE library, which is for all your programs. 
+Make (local)BASE library, which is for you current work.
+
+
+14.  Make MyPackage_Use -program which all the time uses and tests your packages.  
+
+15. For varaibles, functions and classes: Dont use cryptic  names, which you do not remember later.   
+Other programmers must understand them, when they see the code after a year. 
+
+
+16.  Logic.   It's the King.  You feel, when it has come to life. 
+
+
+17.  Be ready to change names, if they do not feel good.  
+       Close editor, when you make BIG changes in folder structures. 
+
+     (Destroying Metadata, darteditor -folder, may not be a bad idea, after fundamental changes. )
+
+18.  Trust dart documentation.... Be with community.  use Github and StackOverFlow and Google+.
+
+
+Ready?  So sit, take a little cup... start writing and let the ideas come to reality....
+
+
+
